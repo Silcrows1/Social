@@ -2,9 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\application",
+    "\\application\\config",
     "\\application\\views",
-    "\\application\\views\\pages"
+    "\\application\\views\\posts",
+    "\\application\\views\\templates",
+    "\\application\\views\\users",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\images"
   ],
-  "SelectedNode": "\\application\\views\\pages\\about.php",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
