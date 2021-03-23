@@ -1,0 +1,187 @@
+.post-date{
+    background:#f4f4f4;
+    padding:4px;
+    margin:3px 0;
+    display:block;
+}
+.post-thumb{
+    width:100%;
+}
+.createBtn{
+    float:right;
+}
+.searchbar{
+    float:right;
+
+}
+.history {
+	background-color: #d6d6d6;
+	border-style:solid;
+	border-width:2px;
+	border-color:black;
+	padding: 2vw;
+}
+.user{
+	color:black;
+}
+.edit{
+	margin-left:0px;
+	left:0px;
+}
+.profile{
+	margin:0px;
+}
+.notfound {
+	font-family: 'Oswald', sans-serif;
+	font-size: 35px;
+	color:black;
+}
+.not-found {
+	align-content: center;
+	margin: auto;
+	text-align: center;
+	height:50vh;
+	overflow:hidden;
+}
+.notfoundgif {
+	filter: drop-shadow(30px 60px 5px #222);
+}
+
+h5 {
+	font-family: 'Oswald', sans-serif;
+}
+h4{
+    font-family: 'Oswald', sans-serif;
+}
+h3{
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+.posttitle{
+    margin:4rem 0 2rem;
+    overflow:hidden;
+    width:85Vw;
+    
+}
+.postcard{
+    color:white;
+    background-color: #5c5c5c;
+    padding:1.5rem;
+    box-shadow:5px 5px 10px white;
+}
+.post-date{
+    color:black;
+}
+.viewimg{
+    text-align:center;
+     width:100%;
+     height:auto;
+}
+.comments{
+    letter-spacing: 0.1rem;
+    font-size:2rem;
+}
+@media only screen and (max-width: 600px) {
+    li {
+      font-size:12px;
+      height:auto;
+    }
+    ul{
+        height:auto;
+    }
+    h5{
+        font-family: 'Oswald', sans-serif;
+    }
+    h4{
+        font-family: 'Oswald', sans-serif;
+    }
+    h3{
+        font-family: 'Oswald', sans-serif;
+    }
+    h2{
+        font-family: 'Oswald', sans-serif;
+    }
+    h1{
+        font-family: 'Oswald', sans-serif;
+    }
+  }
+@media only screen and (max-width: 400px) {
+    li {
+      font-size:8px;
+      height:15px;
+      margin-bottom:10px;
+      margin-top:-6px;
+    }
+    ul{
+        height:auto;
+        
+    }
+    :hover {
+        color: inherit;
+        text-decoration: none;
+      }
+    .navbar-brand{
+        float:none;
+        padding:none;
+        font-size:14px
+    }
+    h5{
+        font-family: 'Oswald', sans-serif;
+        font-size:12px;
+    }
+    h4{
+        font-family: 'Oswald', sans-serif;
+        font-size:12px;
+    }
+    h3{
+        font-family: 'Oswald', sans-serif;
+        font-size:14px;
+    }
+    h2{
+        font-family: 'Oswald', sans-serif;
+        font-size:16px;
+    }
+    h1{
+        font-family: 'Oswald', sans-serif;
+        font-size:18px;
+    }
+    p{
+        font-size:12px;
+    }
+    .list-group-item{
+        height:auto;
+    }
+    table {
+        width:20%;
+    }
+    .searchbar{
+        text-align: center;
+        width:100%;
+        float:right;
+        height:3rem;
+        padding-bottom:10vh;
+        font-size:12px;
+    }
+    input{
+        font-size:12px;
+    }
+    .btn{
+        font-size:12px;
+    }
+    .form-control{
+        font-size:14px;
+        height:20px;
+    }
+    .row{
+        margin:0;
+    }
+    .login{
+        width:100%;
+    }
+
+  }
